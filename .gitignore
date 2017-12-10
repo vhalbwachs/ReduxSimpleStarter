@@ -8,3 +8,4 @@ npm-debug.log
 /.idea
 
 yarn.lock
+API_KEY.js
